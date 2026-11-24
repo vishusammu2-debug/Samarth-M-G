@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Proton</string>
+    <string name="hud_brand_spaced">P . R . O . T . O . N</string>
+    <string name="hud_brand_title">PROTON</string>
+    <string name="hud_brand_subtitle">INTELLIGENT VOICE ASSISTANT</string>
+    <string name="hud_tagline">INTELLIGENT CORE • ALWAYS READY</string>
+    <string name="status_online">SYSTEM ONLINE</string>
+    <string name="status_listening">LISTENING</string>
+    <string name="status_processing">PROCESSING</string>
+    <string name="status_speaking">SPEAKING</string>
+    <string name="status_wake_armed">HEY PROTON ARMED</string>
+    <string name="status_offline_core">OFFLINE CORE</string>
+    <string name="action_tap_to_speak">Tap core or mic to speak</string>
+    <string name="action_send_command">Send command</string>
+    <string name="action_open_settings">Systems and Language</string>
+    <string name="action_back">Back</string>
+    <string name="cd_reactor_core">Proton reactor core voice trigger</string>
+    <string name="cd_mic_button">Toggle voice recognition</string>
+    <string name="cd_tts_toggle">Toggle spoken responses</string>
+    <string name="cd_wake_word_toggle">Toggle Hey Proton wake word listener</string>
+    <string name="cd_settings_button">Open Proton settings and controls</string>
+    <string name="cd_language_button">Select assistant language</string>
+    <string name="permission_mic_title">Microphone Access Required</string>
+    <string name="permission_mic_rationale">Proton needs microphone access to recognize your voice commands and listen for Hey Proton.</string>
+    <string name="permission_mic_grant">Enable Microphone</string>
+    <string name="input_placeholder">Ask Proton anything or issue a command…</string>
+
+    <!-- Floating Neural Core & Foreground Service -->
+    <string name="fgs_channel_name">Proton Neural Core</string>
+    <string name="fgs_channel_description">Keeps the Proton floating holographic sphere and quick controls active.</string>
+    <string name="fgs_notif_title">Proton Neural Core</string>
+    <string name="fgs_notif_visible">Floating bubble active • Tap to open dashboard</string>
+    <string name="fgs_notif_hidden">Floating bubble hidden • Ready in background</string>
+    <string name="fgs_action_hide">Hide Bubble</string>
+    <string name="fgs_action_restore">Restore Bubble</string>
+    <string name="fgs_action_dashboard">Dashboard</string>
+    <string name="fgs_action_stop">Stop</string>
+
+    <!-- Overlay Permission -->
+    <string name="overlay_permission_title">Display Over Other Apps</string>
+    <string name="overlay_permission_explanation">Proton uses the system overlay permission solely to display the floating Neural Core bubble and quick-control drawer when you enable them.</string>
+    <string name="overlay_permission_open_settings">Grant Overlay Permission</string>
+
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_label">Proton Navigation Actions</string>
+    <string name="accessibility_service_description">Executes only explicit user-requested navigation actions such as Back, Home, Recents, Quick Settings, and Screenshot. Proton never reads passwords, private messages, or screen content, and never monitors other apps.</string>
+
+    <!-- PROTON PREMIUM & Reels Mode -->
+    <string name="premium_title">PROTON PREMIUM</string>
+    <string name="premium_plan_badge">₹5 INR • 6 MONTHS • ONE-TIME PASS</string>
+    <string name="premium_no_autorenew_note">One-time ₹5 payment valid for 6 months. No automatic renewal or recurring mandate.</string>
+    <string name="premium_navi_notice">Navi destination recognized: SHOBHA M GUNDA… (State Bank of India ••5871, @naviaxis). Confirm account-holder permission, tap Allow in Navi for external app payments if prompted, enter your Navi UPI ID and authorized HTTPS verification server below, then save and proceed to checkout.</string>
+    <string name="reels_mode_label">Reels Mode</string>
+</resources>

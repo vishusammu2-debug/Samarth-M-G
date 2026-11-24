@@ -1,0 +1,6 @@
+{
+  "name": "Proton",
+  "description": "Futuristic AI voice assistant with multilingual speech recognition, spoken responses, online and offline AI modes, wake-word detection, and safe device controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
